@@ -1,0 +1,76 @@
+* {
+    background-color: #BBE5ED;
+}
+
+.title h1 {
+    font-size: 50px;
+    color: #1F51FF;
+}
+
+.title p {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.container {
+    margin-top: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row stretch; 
+}
+
+.register {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin-left: 100px; 
+    padding:15px 20px;
+    border-radius: 10px;
+
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: white;  
+}
+
+input {
+    padding: 12px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+.signup {
+    padding: 12px 130px;
+    background-color:#1F51FF;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+}
+
+a {
+    color: blue;
+    text-align: center;
+    padding: 15px;
+    background-color:white; 
+}
+
+.login {
+    padding: 10px 50px;
+    background-color: #2E8B57;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin: 10px auto;
+    display: block;
+    
+}
+
+
