@@ -1,19 +1,24 @@
 
 const data = [
 	{
-		"name": "Vaughan Davidson"
+		"name": "Vaughan Davidson",
+		id: 1
 	},
 	{
-		"name": "Brenden Harper"
+		"name": "Brenden Harper",
+		id: 2
 	},
 	{
-		"name": "Colt William"
+		"name": "Colt William",
+		id: 3
 	},
 	{
-		"name": "Holly Barr"
+		"name": "Holly Barr",
+		id: 4
 	},
 	{
-		"name": "Ignatius Walton"
+		"name": "Ignatius Walton",
+		id: 5
 	}
 ]
 
